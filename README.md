@@ -15,5 +15,5 @@ Performs multi-table SQL joins and aggregations to study genre, rating, actor/di
 
 ---
 
-📍 Location: Coimbatore, India  
-📫 Contact: kavithabala023@gmail.com | LinkedIn: linkedin.com/in/Kavitha_Balasubramaniam
+Location: Coimbatore, India  
+Contact: kavithabala023@gmail.com | LinkedIn: linkedin.com/in/Kavitha_Balasubramaniam
